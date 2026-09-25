@@ -1,0 +1,12 @@
+body {
+    background-color: #f5f5f5;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+/* Menu verde claro */
+.navbar-verde {
+    background-color: #a8e6a3;
+}
