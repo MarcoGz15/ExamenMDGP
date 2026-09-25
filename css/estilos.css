@@ -10,3 +10,17 @@ body {
 .navbar-verde {
     background-color: #a8e6a3;
 }
+
+.presentacion-invitado {
+    max-width: 720px;
+    background-color: #fff;
+    border-radius: 1rem;
+    box-shadow: 0 0.5rem 1.5rem rgb(0 0 0 / 8%);
+}
+
+.foto-invitado {
+    width: 320px;
+    height: 320px;
+    object-fit: cover;
+    border-radius: 0.75rem;
+}

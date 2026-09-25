@@ -23,7 +23,7 @@
 
             <div class="collapse navbar-collapse" id="menuPrincipal">
                 <ul class="navbar-nav ms-auto">
-                    <li class="nav-item"><a class="nav-link" href="#">Invitado</a></li>
+                    <li class="nav-item"><a class="nav-link" href="invitado1.php">Invitado 1</a></li>
                 </ul>
             </div>
         </div>
